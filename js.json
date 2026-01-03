@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Host Teste",
+    "email": "host@email.com",
+    "password": "123456",
+    "is_host": true
+  },
+  {
+    "name": "User Teste",
+    "email": "user@email.com"
+  },
+  {
+    "name": "User Teste 2",
+    "email": "user2@email.com"
+  }
+]
